@@ -1,0 +1,16 @@
+# Ignore virtual environments
+backend/venv/
+
+# Ignore environment variables
+backend/.env
+
+# Node modules (for frontend)
+frontend/node_modules/
+
+# Other
+*.pyc
+__pycache__/
+.DS_Store
+.env
+
+backend/parcels.geojson
